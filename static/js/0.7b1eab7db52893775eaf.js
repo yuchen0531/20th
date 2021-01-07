@@ -1,0 +1,2 @@
+webpackJsonp([0],{Lmnn:function(t,e){},xvHT:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"record mt-5"},[e("div",{staticClass:"p-5 mx-auto"})])}]};var s=n("VU/8")({name:"record",data:function(){return{}},methods:{lastpage:function(){this.$router.back()}}},r,!1,function(t){n("Lmnn")},null,null);e.default=s.exports}});
+//# sourceMappingURL=0.7b1eab7db52893775eaf.js.map
